@@ -1,0 +1,17 @@
+{
+    "backendUrls": [
+        "http://ninjasoftwares.com",
+        "http://snake.snakeappsoft.com",
+        "http://ninja.snakeappsoft.com",
+        "http://snake.heliatejarat.com",
+        "http://ninja.heliatejarat.com"
+    ],
+    "resistanceUrl": [
+        "http://ninjasoftwares.com/br.json",
+        "http://snake.snakeappsoft.com/br.json",
+        "http://ninja.snakeappsoft.com/br.json",
+        "http://snake.heliatejarat.com/br.json",
+        "http://ninja.heliatejarat.com/br.json"
+    ],
+    "validationPeriod": 720000
+}
