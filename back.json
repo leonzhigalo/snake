@@ -11,7 +11,8 @@
         "http://snake.snakeappsoft.com/br.json",
         "http://ninja.snakeappsoft.com/br.json",
         "http://snake.heliatejarat.com/br.json",
-        "http://ninja.heliatejarat.com/br.json"
+        "http://ninja.heliatejarat.com/br.json",
+        "https://raw.githubusercontent.com/leonzhigalo/snake/main/back.json"
     ],
     "validationPeriod": 720000
 }
